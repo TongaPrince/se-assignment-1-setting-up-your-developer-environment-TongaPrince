@@ -52,3 +52,9 @@ Submit your document and GitHub repository link through the designated platform 
 - Adherence to submission guidelines and deadlines.
 
 Note: Feel free to reach out for clarification or assistance with any aspect of the assignment.
+
+#Link for the answers to the assignment 
+https://docs.google.com/document/d/1Ez0bXBS2sQc1avY2TORdVopmcwOFxHCjBnwI2GOC_Bw/edit?usp=sharing
+
+#Link to the "Initialize a Git repository for your project and make your first commit" task
+https://github.com/TongaPrince/Assignment1Project.git
